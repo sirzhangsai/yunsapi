@@ -2,14 +2,13 @@
 
 namespace App\HttpController;
 
-use EasySwoole\Http\AbstractInterface\Controller;
 
-class Index extends Controller
+class Index extends Base
 {
 
     public function index()
     {
         // TODO: Implement index() method.
-        $this->response()->write("hihihihi");
+        return $this->error('123456dfdfd');
     }
 }

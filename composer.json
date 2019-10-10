@@ -5,6 +5,8 @@
         }
     },
     "require": {
-        "easyswoole/easyswoole": "3.x"
+        "easyswoole/easyswoole": "3.x",
+        "topthink/think-validate": "^1.0",
+        "illuminate/cache": "5.6.*"
     }
 }
