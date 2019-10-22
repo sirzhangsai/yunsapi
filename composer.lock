@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "430154b29e96544c1ba6cc9e5a1ab5df",
+    "content-hash": "8b9502f02610900acfa49e740470d3c1",
     "packages": [
         {
             "name": "amiba-exts/ms-client",
-            "version": "0.1.19",
+            "version": "0.1.18",
             "source": {
                 "type": "git",
                 "url": "git@amiba.io:amiba/php-ms-client.git",
-                "reference": "c4ed8c7bbdde31a848e0c3e9d424fec4b14c01af"
+                "reference": "1cc6dbd5c06333148f7b0cf9a3ffde1919575887"
             },
             "dist": {
                 "type": "tar",
-                "url": "https://pkg.amiba.io/dist/amiba-exts/ms-client/amiba-exts-ms-client-0.1.19-028871.tar",
-                "reference": "c4ed8c7bbdde31a848e0c3e9d424fec4b14c01af",
-                "shasum": "93f0b794f38eca6f3a39104211aad7e0d8939840"
+                "url": "https://pkg.amiba.io/dist/amiba-exts/ms-client/amiba-exts-ms-client-0.1.18-46b65f.tar",
+                "reference": "1cc6dbd5c06333148f7b0cf9a3ffde1919575887",
+                "shasum": "b9a03e409138514f57c85b44c8a010033b761232"
             },
             "require": {
                 "firebase/php-jwt": "^5.0",
@@ -44,7 +44,7 @@
                 }
             ],
             "description": "amoeba request client",
-            "time": "2019-09-18T01:26:57+00:00"
+            "time": "2019-05-16T10:21:13+00:00"
         },
         {
             "name": "doctrine/inflector",
