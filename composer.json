@@ -11,6 +11,13 @@
         "illuminate/database": "^5.5",
         "illuminate/pagination": "^5.5",
         "guzzlehttp/guzzle": "^6.3",
-        "illuminate/redis": "5.6.*"
-    }
+        "illuminate/redis": "5.6.*",
+        "amiba-exts/ms-client": "^0.1.19"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://pkg.amiba.io:1000"
+        }
+    ]
 }
